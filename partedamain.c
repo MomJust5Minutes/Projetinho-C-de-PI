@@ -35,6 +35,7 @@ int main()
 
     maior(Vrand,N);
     menor(Vrand,N);
+    
     getch();
     return 0;
 }
